@@ -5,6 +5,14 @@ This project provides the ease to search the details of a trains or station with
  ### Live Website:
  https://traindata-api.000webhostapp.com/#
  
+ ## Language Used:
+ 
+ HTML
+ CSS
+ Javascript
+ Jquery
+ AJAX with JSON
+ 
 ### API used:
  https://indianrailapi.com/api-collection
  

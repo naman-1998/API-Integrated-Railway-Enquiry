@@ -8,9 +8,13 @@ This project provides the ease to search the details of a trains or station with
  ## Language Used:
  
  HTML
+ 
  CSS
+ 
  Javascript
+ 
  Jquery
+ 
  AJAX with JSON
  
 ### API used:
